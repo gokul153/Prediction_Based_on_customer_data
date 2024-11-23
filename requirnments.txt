@@ -4,6 +4,11 @@ numpy
 scikit-learn
 tensorboard
 matplotlib
+<<<<<<< HEAD
 nltk
 scikeras
 streamlit
+=======
+keras-tuner
+scikeras
+>>>>>>> 5e15874adb7cff38d08f054c8653ec38eea3cb8e
